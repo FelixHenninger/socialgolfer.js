@@ -1,0 +1,25 @@
+{
+  "name": "social-golfers",
+  "version": "0.5.0",
+  "description": "Implementation of the GRASP strategy for solving social golfer problems",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.9.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelixHenninger/socialgolfer.js.git"
+  },
+  "author": "Felix Henninger",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/FelixHenninger/socialgolfer.js/issues"
+  },
+  "homepage": "https://github.com/FelixHenninger/socialgolfer.js#readme"
+}
